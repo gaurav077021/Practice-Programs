@@ -5,6 +5,8 @@ int main()
 {
     int arr[5], i;
 
+    system("cls");
+
     for(i = 0; i < 5; i++)
     {
         printf("Enter a[%d]: ", i);

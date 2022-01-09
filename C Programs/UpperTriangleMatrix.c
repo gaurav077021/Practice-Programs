@@ -1,4 +1,4 @@
-// Program to implement lower triangle matrix.
+// Program to implement upper triangle matrix.
 
 #include<stdio.h>
  

@@ -5,6 +5,7 @@
 int main()
 {
  	int i, j, rows, columns, a[10][10];
+	 system("cls");
   
  	printf("\n Please Enter Number of rows and columns  :  ");
  	scanf("%d %d", &i, &j);

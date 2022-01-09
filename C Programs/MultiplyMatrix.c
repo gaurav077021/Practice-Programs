@@ -1,6 +1,5 @@
 // Program to implement multiplication of matrix.
 
-
 #include<stdio.h>
 #include<conio.h>   
 int main()
@@ -19,7 +18,7 @@ printf("enter the first matrix element=\n");
             scanf("%d",&a[i][j]);    
         }    
     }    
-printf("enter the second matrix element=\n");    
+printf("enter the second matrix element=\n");  
     for(i=0;i<r;i++)    
     {    
         for(j=0;j<c;j++)    
@@ -50,4 +49,4 @@ for(i=0;i<r;i++)
     printf("\n");    
 }    
 return 0;  
-}  
+}

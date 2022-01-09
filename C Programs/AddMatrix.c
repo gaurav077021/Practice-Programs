@@ -5,6 +5,7 @@
 void main()
 {
 	int a[2][3],b[2][3],c[2][3],i,j;
+	system("cls");
 	printf("Enter values for matrix A:\n");
 	for(i=0;i<2;i++)
     {
